@@ -1,0 +1,3 @@
+<h2>Upload Resume</h2>
+<input type="file" />
+<button>Analyze Resume</button>
